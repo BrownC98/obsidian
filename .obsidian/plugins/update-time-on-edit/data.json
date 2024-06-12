@@ -12,9 +12,16 @@
   ],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "90. Template/위키 템플릿.md": "23675124f084a58bf08dd842172e418f9458a8b5fe09c38b46c8792723178264",
     "00. Inbox/Welcome.md": "dd98c57531e7fc38038456927ff883cab76dcd94b680e95ba025c7615523f9f3",
-    "20. wiki/속성 알아보기.md": "a125d225f168f2f9e4a6a5d0abe053134b7926057d5ca5758d8e2b3d4e712ed8",
-    "20. wiki/Untitled.md": "fb1a7a27311b0be03f4c440c88224b8ed81ea75ee06f0a29af5988bdd113008a"
+    "20. wiki/속성 알아보기.md": "4459d9199d32d72b7adf9d1d0f3ef2cc5ec27ef5b80e6d74feab426bd902bebf",
+    "20. wiki/각주 다는 법.md": "97fda7e4d43f0ffe7629a7463dff2abc78b404113b9354f5fb07a4506e6354af",
+    "20. wiki/노트 간의 연결.md": "2140c745b81f4b56b06fe8cb7ca53ddbc7017998097a7195555706ff1280ef7f",
+    "00. Inbox/Untitled.md": "414706440abb6440b0b943bb29390f206d7c2287feda7b48edde3144a78eea59",
+    "90. Template/1. 위키 템플릿.md": "23675124f084a58bf08dd842172e418f9458a8b5fe09c38b46c8792723178264",
+    "20. wiki/URI.md": "ea398ac555d1b598c527ec3342f4ce10594d57b0a41be53bf147a732bf37a9a9",
+    "00. Inbox/URL.md": "d8ccf4c7e9797d87b5449aa2c6b398bac2f8d835d0d951762a900e3e61aaadff",
+    "00. Inbox/Cursor.md": "5bd20d058b5b99151a399e9ba899bb8a95e754b9d182c34d0e591a5ead845d08",
+    "00. Inbox/FileStream(android).md": "80872ea1956048df35eb3b0a22fede64a98e5965a3e0f542b92868c265f9aa9b",
+    "20. wiki/Uri(android).md": "83d93ff1807964895f9e3a0cbb02faec34cd1bfabcf52fa96a3a5325aa26a593"
   }
 }

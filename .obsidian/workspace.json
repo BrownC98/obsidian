@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cd369876b933ba4",
+            "id": "a588d23266c1b6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. wiki/속성 알아보기.md",
+                "file": "00. Inbox/URL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "db69fdb68e26e7d8",
+            "id": "b30fa03b4c094cc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/Welcome.md",
+                "file": "00. Inbox/Cursor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "6ff6460477ddbe56",
+            "id": "ea0b6f0c0058af66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/Welcome.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "438fb67258386458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. wiki/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82aa99f61e18ae7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90. Template/위키 템플릿.md",
+                "file": "00. Inbox/URL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90. Template/위키 템플릿.md",
+                "file": "00. Inbox/URL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90. Template/위키 템플릿.md",
+                "file": "00. Inbox/URL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90. Template/위키 템플릿.md"
+                "file": "00. Inbox/URL.md"
               }
             }
           },
@@ -196,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "dbb32e5f9b570050",
@@ -208,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "90. Template/위키 템플릿.md",
+                "file": "00. Inbox/URL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,20 +229,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82aa99f61e18ae7f",
+  "active": "ea0b6f0c0058af66",
   "lastOpenFiles": [
-    "20. wiki/Untitled.md",
-    "90. Template/위키 템플릿.md",
-    "90. Template/데일리 노트 템플릿.md",
-    "20. wiki/속성 알아보기.md",
-    "00. Inbox/Welcome.md",
+    "20. wiki/URI.md",
+    "00. Inbox/URL.md",
+    "20. wiki/Uri(android).md",
+    "00. Inbox/FileStream(android).md",
+    "00. Inbox/Cursor.md",
     "20. wiki/노트 간의 연결.md",
-    "00. Inbox/Invalid date.md",
-    "00. Inbox/Untitled 1.md",
-    "00. Inbox/Untitled.md",
+    "20. wiki/각주 다는 법.md",
+    "20. wiki/속성 알아보기.md",
     "20. wiki/마크다운 사용법.md",
-    "20. wiki",
+    "90. Template/1. 위키 템플릿.md",
+    "90. Template/2. 데일리 노트 템플릿.md",
+    "00. Inbox/Untitled.md",
+    "00. Inbox/Welcome.md",
     "10. Daily Notes/2024-06-12.md",
+    "00. Inbox/Invalid date.md",
+    "20. wiki",
     "80. Canvas/Untitled.canvas",
     "80. Canvas",
     "00. Inbox/2024-.md",
