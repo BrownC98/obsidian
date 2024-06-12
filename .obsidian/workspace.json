@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "25b6c02bbb09d2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "947efc383a468ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69d3148304d8a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Daily Notes/2024-06-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23f5bb7b9d3fb8ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7948eff7e3ffbf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "475dd781cf2c1d0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4be66ceb57a5d239",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eca5b83289bb0cb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2053feaab8e779f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef0f216142da3d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8cbeab215f7dfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10. Daily Notes/2024-06-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdae0d0e3015a0f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10. Daily Notes/2024-06-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f8ea67b856f3c6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf991c48063ceaf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10. Daily Notes/2024-06-12.md"
+              }
+            }
+          },
+          {
+            "id": "8778e6d5ec2d02b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "dbb32e5f9b570050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e9e23747e38b08d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "10. Daily Notes/2024-06-12.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d69d3148304d8a43",
+  "lastOpenFiles": [
+    "80. Canvas/Untitled.canvas",
+    "00. Inbox/마크다운 사용법.md",
+    "80. Canvas",
+    "10. Daily Notes/2024-06-12.md",
+    "90. Template/데일리 노트 템플릿.md",
+    "00. Inbox/2024-.md",
+    "00. Inbox/Invalid date.md",
+    "00. Inbox/노트 간의 연결.md",
+    "00. Inbox/속성 알아보기.md",
+    "00. Inbox/Welcome.md",
+    "99. Attachment",
+    "90. Template",
+    "10. Daily Notes",
+    "00. Inbox"
+  ]
+}

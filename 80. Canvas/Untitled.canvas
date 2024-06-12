@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3e2f576d715ad966","x":-180,"y":-320,"width":400,"height":400,"type":"file","file":"00. Inbox/노트 간의 연결.md"},
+		{"id":"fe5d66a99772f0d7","x":-36,"y":282,"width":400,"height":400,"type":"file","file":"00. Inbox/마크다운 사용법.md"}
+	],
+	"edges":[
+		{"id":"350e9bc9265db8a1","fromNode":"3e2f576d715ad966","fromSide":"bottom","toNode":"fe5d66a99772f0d7","toSide":"top"}
+	]
+}
