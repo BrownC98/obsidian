@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. wiki/Uri(android).md",
+                "file": "20. wiki/URL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55d2fc41a6d9a051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/Content Provider.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ContentPro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,11 +106,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -113,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. wiki/Uri(android).md",
+                "file": "00. Inbox/Content Provider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. wiki/Uri(android).md",
+                "file": "00. Inbox/Content Provider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. wiki/Uri(android).md"
+                "file": "00. Inbox/Content Provider.md"
               }
             }
           },
@@ -182,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20. wiki/Uri(android).md",
+                "file": "00. Inbox/Content Provider.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,16 +244,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea0b6f0c0058af66",
+  "active": "55d2fc41a6d9a051",
   "lastOpenFiles": [
+    "20. wiki/Uri(android).md",
+    "00. Inbox/Content Provider.md",
+    "20. wiki/URL.md",
+    "20. wiki/URI.md",
     "00. Inbox/Cursor.md",
     "10. Daily Notes/2024-06-12.md",
-    "20. wiki/Uri(android).md",
-    "20. wiki/URL.md",
     "99. Attachment/Pasted image 20240612163505.png",
     "99. Attachment/Pasted image 20240612163447.png",
     "20. wiki/자원(프로그래밍).md",
-    "20. wiki/URI.md",
     "20. wiki/노트 간의 연결.md",
     "99. Attachment/Pasted image 20240612160721.png",
     "20. wiki/각주 다는 법.md",

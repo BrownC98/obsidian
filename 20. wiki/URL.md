@@ -2,11 +2,13 @@
 tags:
   - 개발
 created: 2024-06-12T15:13
-updated: 2024-06-12T16:33
+updated: 2024-06-12T17:14
 ---
 Uniform Resource Locator
 경로(Location)를 구분하는 식별자
 URL은 [[URI]]에 포함되는 개념이다
+
+[[URI]]는 리소스를 식별할 수 있는 방식이며, URL은 그 중에서 경로를 사용해 리소스를 식별하는 방식이다.
 
 URL은 [[자원(프로그래밍)]]을 경로 기반으로 식별한다.
 
