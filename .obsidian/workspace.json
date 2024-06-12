@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "dbb32e5f9b570050",
@@ -231,12 +231,15 @@
   },
   "active": "ea0b6f0c0058af66",
   "lastOpenFiles": [
-    "20. wiki/URI.md",
-    "20. wiki/Uri(android).md",
     "20. wiki/URL.md",
+    "00. Inbox/Cursor.md",
+    "20. wiki/Uri(android).md",
+    "99. Attachment/Pasted image 20240612163505.png",
+    "99. Attachment/Pasted image 20240612163447.png",
+    "20. wiki/자원(프로그래밍).md",
+    "20. wiki/URI.md",
     "20. wiki/노트 간의 연결.md",
     "99. Attachment/Pasted image 20240612160721.png",
-    "20. wiki/자원(개발).md",
     "20. wiki/각주 다는 법.md",
     "20. wiki/속성 알아보기.md",
     "00. Inbox/Untitled.md",
@@ -246,7 +249,6 @@
     "90. Template/11. 위키 템플릿 - 기술.md",
     "10. Daily Notes/2024-06-12.md",
     "00. Inbox/FileStream(android).md",
-    "00. Inbox/Cursor.md",
     "00. Inbox/Welcome.md",
     "00. Inbox/Invalid date.md",
     "20. wiki",
