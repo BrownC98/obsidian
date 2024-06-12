@@ -2,7 +2,7 @@
 tags:
   - android
 created: 2024-06-12T17:15
-updated: 2024-06-12T20:37
+updated: 2024-06-12T20:40
 ---
 # 개요
 특정 앱이 사용하는 데이터를 그 앱 외부에서 접근가능하도록 만든 통로
@@ -33,7 +33,6 @@ Provider의 권한과 테이블, 파일을 가리키는 이름이 포함됨
 이 URI가 CP의 모든 메소드에 필수 인자로 들어가고 이를 통해 엑세스할 테이블, 행, 파일을 결정한다.
 #### Content URI 예시
  content://com.example.contentprovider/person/1
-
 -  content://
     ContentProvider에 제어되는 데이터라는 의미로 항상 content://로 시작됨  
 -  Authority
