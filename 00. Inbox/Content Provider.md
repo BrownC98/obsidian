@@ -2,7 +2,7 @@
 tags:
   - android
 created: 2024-06-12T17:15
-updated: 2024-06-12T18:09
+updated: 2024-06-12T18:48
 ---
 # 개요
 특정 앱이 사용하는 데이터를 그 앱 외부에서 접근가능하도록 만든 통로
@@ -22,7 +22,10 @@ CP는 데이터에 대해 CRUD작업을 수행할 수 있는 메서드를 제공
 ## 1. 다른 앱의 ContentProvider 접근
 ContentResolver 객체를 사용하여 ContentProvider와 서버-클라이언트 구조로 통신을 주고 받아야함. 즉, CR이 CP에 데이터를 요청하면 CP는 요청된 작업을 실행하고 결과를 반환한다.
 
+아래 단계를 거쳐 데이터를 받아올 수 있다.
 ![[Pasted image 20240612180626.png]]
+CP에서 공유할 수 있는 데이터는 DB, FILE, SharedPreferences 3가지다. CP 는 CRUD동작을 기본으로 하기 때문에 DB가 주로 사용된다.
+
 # 기반 기술
 
 # 이 것을 기반으로 한 기술
