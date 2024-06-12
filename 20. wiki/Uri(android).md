@@ -2,7 +2,7 @@
 tags:
   - android
 created: 2024-06-12T15:01
-updated: 2024-06-12T16:57
+updated: 2024-06-12T17:00
 ---
 # 개요
 [[URI]]정보를 저장하는 클래스다.
@@ -35,8 +35,16 @@ getContent.launch(intent)
 실행결과
 > Uri : content://com.android.contacts/data/phones
 
-ContentProvider 사용
+2. ContentProvider 사용
+ContentResolver 객체를 사용해 시스템에 등록된 콘텐츠 프로바이더를 사용할 때 delete(), insert(), query() 등 함수의 매개변수로 Uri객체 가 사용됨
 
+```kotlin
+public final Cursor query(Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder)
+```
+
+```kotlin
+getContent = registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { if (it.resultCode == RESULT_OK) { val cursor = contentResolver.query( it.data!!.data!!, arrayOf<String>( ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME, ContactsContract.CommonDataKinds.Phone.NUMBER ), null, null, null ) // ... } }
+```
 
 # 기반 기술
 
