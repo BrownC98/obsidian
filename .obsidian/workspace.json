@@ -8,19 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d69d3148304d8a43",
+            "id": "4cd369876b933ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2024-06-12.md",
+                "file": "20. wiki/속성 알아보기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db69fdb68e26e7d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/Welcome.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ff6460477ddbe56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/Welcome.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "438fb67258386458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20. wiki/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82aa99f61e18ae7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90. Template/위키 템플릿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Daily Notes/2024-06-12.md",
+                "file": "90. Template/위키 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Daily Notes/2024-06-12.md",
+                "file": "90. Template/위키 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Daily Notes/2024-06-12.md"
+                "file": "90. Template/위키 템플릿.md"
               }
             }
           },
@@ -155,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10. Daily Notes/2024-06-12.md",
+                "file": "90. Template/위키 템플릿.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,18 +255,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d69d3148304d8a43",
+  "active": "82aa99f61e18ae7f",
   "lastOpenFiles": [
-    "80. Canvas/Untitled.canvas",
-    "00. Inbox/마크다운 사용법.md",
-    "80. Canvas",
-    "10. Daily Notes/2024-06-12.md",
+    "20. wiki/Untitled.md",
+    "90. Template/위키 템플릿.md",
     "90. Template/데일리 노트 템플릿.md",
-    "00. Inbox/2024-.md",
-    "00. Inbox/Invalid date.md",
-    "00. Inbox/노트 간의 연결.md",
-    "00. Inbox/속성 알아보기.md",
+    "20. wiki/속성 알아보기.md",
     "00. Inbox/Welcome.md",
+    "20. wiki/노트 간의 연결.md",
+    "00. Inbox/Invalid date.md",
+    "00. Inbox/Untitled 1.md",
+    "00. Inbox/Untitled.md",
+    "20. wiki/마크다운 사용법.md",
+    "20. wiki",
+    "10. Daily Notes/2024-06-12.md",
+    "80. Canvas/Untitled.canvas",
+    "80. Canvas",
+    "00. Inbox/2024-.md",
     "99. Attachment",
     "90. Template",
     "10. Daily Notes",

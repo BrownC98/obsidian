@@ -1,0 +1,20 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "90. Template"
+  ],
+  "ignoreCreatedFolder": [
+    "90. Template"
+  ],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "90. Template/위키 템플릿.md": "23675124f084a58bf08dd842172e418f9458a8b5fe09c38b46c8792723178264",
+    "00. Inbox/Welcome.md": "dd98c57531e7fc38038456927ff883cab76dcd94b680e95ba025c7615523f9f3",
+    "20. wiki/속성 알아보기.md": "a125d225f168f2f9e4a6a5d0abe053134b7926057d5ca5758d8e2b3d4e712ed8",
+    "20. wiki/Untitled.md": "fb1a7a27311b0be03f4c440c88224b8ed81ea75ee06f0a29af5988bdd113008a"
+  }
+}

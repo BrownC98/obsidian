@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "date": "date"
+    "date": "date",
+    "최근 수정 시각": "datetime"
   }
 }
