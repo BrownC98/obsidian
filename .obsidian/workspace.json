@@ -39,19 +39,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. wiki/URL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55d2fc41a6d9a051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "00. Inbox/Content Provider.md",
                 "mode": "source",
                 "backlinks": true,
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ContentPro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,13 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -244,28 +229,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "55d2fc41a6d9a051",
+  "active": "ea0b6f0c0058af66",
   "lastOpenFiles": [
-    "20. wiki/Uri(android).md",
-    "00. Inbox/Content Provider.md",
-    "20. wiki/URL.md",
-    "20. wiki/URI.md",
     "00. Inbox/Cursor.md",
+    "00. Inbox/Content Provider.md",
+    "99. Attachment/Pasted image 20240612180626.png",
+    "20. wiki/URI.md",
+    "20. wiki/URL.md",
+    "20. wiki/Uri(android).md",
+    "20. wiki/각주 다는 법.md",
+    "20. wiki/자원(프로그래밍).md",
+    "20. wiki/마크다운 사용법.md",
+    "20. wiki/노트 간의 연결.md",
+    "00. Inbox/Welcome.md",
+    "00. Inbox/Untitled.md",
+    "90. Template/11. 위키 템플릿 - 기술.md",
     "10. Daily Notes/2024-06-12.md",
     "99. Attachment/Pasted image 20240612163505.png",
     "99. Attachment/Pasted image 20240612163447.png",
-    "20. wiki/자원(프로그래밍).md",
-    "20. wiki/노트 간의 연결.md",
     "99. Attachment/Pasted image 20240612160721.png",
-    "20. wiki/각주 다는 법.md",
     "20. wiki/속성 알아보기.md",
-    "00. Inbox/Untitled.md",
-    "20. wiki/마크다운 사용법.md",
     "90. Template/10. 위키 템플릿.md",
     "90. Template/20. 데일리 노트 템플릿.md",
-    "90. Template/11. 위키 템플릿 - 기술.md",
     "00. Inbox/FileStream(android).md",
-    "00. Inbox/Welcome.md",
     "00. Inbox/Invalid date.md",
     "20. wiki",
     "80. Canvas/Untitled.canvas",
