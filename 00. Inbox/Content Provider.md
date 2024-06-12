@@ -2,7 +2,7 @@
 tags:
   - android
 created: 2024-06-12T17:15
-updated: 2024-06-12T18:48
+updated: 2024-06-12T20:37
 ---
 # 개요
 특정 앱이 사용하는 데이터를 그 앱 외부에서 접근가능하도록 만든 통로
@@ -26,6 +26,22 @@ ContentResolver 객체를 사용하여 ContentProvider와 서버-클라이언트
 ![[Pasted image 20240612180626.png]]
 CP에서 공유할 수 있는 데이터는 DB, FILE, SharedPreferences 3가지다. CP 는 CRUD동작을 기본으로 하기 때문에 DB가 주로 사용된다.
 
+### Content URI
+CP를 만들기 위해서는 고유한 값을 가진 Content URI를 만들어야함
+Content URI는 Provider에서 데이터를 식별하는 역할을 함
+Provider의 권한과 테이블, 파일을 가리키는 이름이 포함됨
+이 URI가 CP의 모든 메소드에 필수 인자로 들어가고 이를 통해 엑세스할 테이블, 행, 파일을 결정한다.
+#### Content URI 예시
+ content://com.example.contentprovider/person/1
+
+-  content://
+    ContentProvider에 제어되는 데이터라는 의미로 항상 content://로 시작됨  
+-  Authority
+    com.example.contentprovider를 가리키며, ContentProvider를 구분하는 고유의 값으로 사용됨  
+- Base Path
+    테이블 또는 파일을 가리키는 이름으로 해당 URI에서는 person 테이블을 가리킴  
+- ID
+    마지막 숫자로 테이블 내 행(레코드)을 가리킴
 # 기반 기술
 
 # 이 것을 기반으로 한 기술
