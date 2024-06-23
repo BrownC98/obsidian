@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "505d697b25eaba2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/EditText 포커스 제거법.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b30fa03b4c094cc7",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/Content Provider.md",
+                "file": "00. Inbox/EditText 포커스 제거법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/Content Provider.md",
+                "file": "00. Inbox/EditText 포커스 제거법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/Content Provider.md"
+                "file": "00. Inbox/EditText 포커스 제거법.md"
               }
             }
           },
@@ -183,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Inbox/Content Provider.md",
+                "file": "00. Inbox/EditText 포커스 제거법.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,20 +242,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea0b6f0c0058af66",
+  "active": "505d697b25eaba2c",
   "lastOpenFiles": [
+    "00. Inbox/EditText 포커스 제거법.md",
+    "20. wiki/URL.md",
+    "Untitled",
     "00. Inbox/Cursor.md",
     "00. Inbox/Content Provider.md",
     "99. Attachment/Pasted image 20240612180626.png",
     "20. wiki/URI.md",
-    "20. wiki/URL.md",
     "20. wiki/Uri(android).md",
     "20. wiki/각주 다는 법.md",
     "20. wiki/자원(프로그래밍).md",
     "20. wiki/마크다운 사용법.md",
     "20. wiki/노트 간의 연결.md",
     "00. Inbox/Welcome.md",
-    "00. Inbox/Untitled.md",
     "90. Template/11. 위키 템플릿 - 기술.md",
     "10. Daily Notes/2024-06-12.md",
     "99. Attachment/Pasted image 20240612163505.png",
