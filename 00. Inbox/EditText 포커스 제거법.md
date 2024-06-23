@@ -3,7 +3,7 @@ tags:
   - android
   - 문제해결
 created: 2024-06-23T21:37
-updated: 2024-06-23T21:45
+updated: 2024-06-23T22:04
 ---
 레이아웃 최상단에 
 가로 세로 1dp 자리 뷰를 만든다음
@@ -25,6 +25,8 @@ android:focusableInTouchMode="true"
 android:visibility="visible"
 
 visible에서만 포커스를 제대로 흡수한다.
+
+width, height 둘 중 하나라도 0dp면 작동하지 않음
 
 ## 더미 뷰 위치
 포커스 더미 뷰를 레이아웃 최상단에 위치 한 이유는  터치 모드가 아닐 때 clearFocus를 실행하면 레이아웃 최상단에서 부터 포커스 가능한 뷰를 찾아 포커스를 부여하기 때문이다. 
