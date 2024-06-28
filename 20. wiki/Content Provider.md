@@ -2,7 +2,7 @@
 tags:
   - android
 created: 2024-06-12T17:15
-updated: 2024-06-12T20:56
+updated: 2024-06-28T16:51
 ---
 # 개요
 특정 앱이 사용하는 데이터를 그 앱 외부에서 접근가능하도록 만든 통로
@@ -41,9 +41,9 @@ Provider의 권한과 테이블, 파일을 가리키는 이름이 포함됨
     테이블 또는 파일을 가리키는 이름으로 해당 URI에서는 person 테이블을 가리킴  
 - ID
     마지막 숫자로 테이블 내 행(레코드)을 가리킴
-### CP를 통해 데이터 엑세스
+### CP를 통한 데이터 엑세스
 ContentResolver의 query 메소드에 Uri 등의 인자를 입력하면 Cursor객체가 반환된다. Cursor객체는 쿼리의 결과를 읽고 쓸수 있게 해주는 인터페이스 역할을 한다.
-컬럼명에 해당하는 인덱스를 알고 싶으며 getColumnIndex, 모든 컬럼명을 확인하고 싶으면 getColumnNames를 사용하면 된다.
+컬럼명에 해당하는 인덱스를 알고 싶으면 getColumnIndex, 모든 컬럼명을 확인하고 싶으면 getColumnNames를 사용하면 된다.
 ## ContentProvider를 Manifest에 등록
 provider 태그 추가, authrities에 CP의 Authrity정보와 동일하게 임력
 name은 CP를 상속한 클래스 명 입력

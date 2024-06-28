@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/EditText 포커스 제거법.md",
+                "file": "00. Inbox/FileStream(android).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/Cursor.md",
+                "file": "20. wiki/Cursor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/Content Provider.md",
+                "file": "20. wiki/Content Provider.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/EditText 포커스 제거법.md",
+                "file": "00. Inbox/FileStream(android).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/EditText 포커스 제거법.md",
+                "file": "00. Inbox/FileStream(android).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/EditText 포커스 제거법.md"
+                "file": "00. Inbox/FileStream(android).md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Inbox/EditText 포커스 제거법.md",
+                "file": "00. Inbox/FileStream(android).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,11 +244,13 @@
   },
   "active": "505d697b25eaba2c",
   "lastOpenFiles": [
-    "00. Inbox/EditText 포커스 제거법.md",
+    "20. wiki/Cursor.md",
+    "20. wiki/Content Provider.md",
+    "00. Inbox/FileStream(android).md",
+    "00. Inbox/Welcome.md",
+    "20. wiki/EditText 포커스 제거법.md",
     "20. wiki/URL.md",
     "Untitled",
-    "00. Inbox/Cursor.md",
-    "00. Inbox/Content Provider.md",
     "99. Attachment/Pasted image 20240612180626.png",
     "20. wiki/URI.md",
     "20. wiki/Uri(android).md",
@@ -256,7 +258,6 @@
     "20. wiki/자원(프로그래밍).md",
     "20. wiki/마크다운 사용법.md",
     "20. wiki/노트 간의 연결.md",
-    "00. Inbox/Welcome.md",
     "90. Template/11. 위키 템플릿 - 기술.md",
     "10. Daily Notes/2024-06-12.md",
     "99. Attachment/Pasted image 20240612163505.png",
@@ -265,7 +266,6 @@
     "20. wiki/속성 알아보기.md",
     "90. Template/10. 위키 템플릿.md",
     "90. Template/20. 데일리 노트 템플릿.md",
-    "00. Inbox/FileStream(android).md",
     "00. Inbox/Invalid date.md",
     "20. wiki",
     "80. Canvas/Untitled.canvas",

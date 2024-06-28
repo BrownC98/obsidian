@@ -3,7 +3,7 @@ tags:
   - android
   - 문제해결
 created: 2024-06-23T21:37
-updated: 2024-06-23T22:04
+updated: 2024-06-28T16:50
 ---
 레이아웃 최상단에 
 가로 세로 1dp 자리 뷰를 만든다음
@@ -14,9 +14,14 @@ binding.svSearch.post(() -> {
 ```
 editText에 clearView를 해주면 됨
 
-# post에 대해
+# post()에 대해
 
-post로 감싼 이유는 editText에 포커스가 확실히 잡힌 후 다른 뷰로 포커스를 넘겨야 하기 때문
+post()로 감싼 이유는 post()는 ui 처리 큐에 인자로 주어진 runnable을 추가 하는 메소드다.
+그래서 post()를 사용하면 다른 ui처리가 완료된 후에 인자로 주어진 runnable이 실행된다.
+
+여기서 post()를 사용한 이유는 editText와 관련된 view 연산(ex) 포커싱)이 완료된 이후에 clearfocus()를 실행해야 의도된 대로 코드가 작동하기 때문이다.
+
+editText에 포커스가 확실히 잡힌 후 다른 뷰로 포커스를 넘겨야 하기 때문
 
 # 더미 뷰에 대해
 더미 뷰는 다음 조건을 만족 해야함
