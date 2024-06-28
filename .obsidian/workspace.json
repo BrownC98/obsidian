@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/FileStream(android).md",
+                "file": "90. Template/11. 위키 템플릿 - 기술.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4f46f05ffe54674d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
               }
             }
           },
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/FileStream(android).md",
+                "file": "90. Template/11. 위키 템플릿 - 기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/FileStream(android).md",
+                "file": "90. Template/11. 위키 템플릿 - 기술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/FileStream(android).md"
+                "file": "90. Template/11. 위키 템플릿 - 기술.md"
               }
             }
           },
@@ -195,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Inbox/FileStream(android).md",
+                "file": "90. Template/11. 위키 템플릿 - 기술.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,29 +252,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "505d697b25eaba2c",
+  "active": "4f46f05ffe54674d",
   "lastOpenFiles": [
+    "90. Template/10. 위키 템플릿.md",
+    "90. Template/11. 위키 템플릿 - 기술.md",
+    "20. wiki/URI.md",
+    "20. wiki/URL.md",
+    "20. wiki/각주 다는 법.md",
+    "00. Inbox/FileStream(android).md",
     "20. wiki/Cursor.md",
     "20. wiki/Content Provider.md",
-    "00. Inbox/FileStream(android).md",
     "00. Inbox/Welcome.md",
     "20. wiki/EditText 포커스 제거법.md",
-    "20. wiki/URL.md",
     "Untitled",
     "99. Attachment/Pasted image 20240612180626.png",
-    "20. wiki/URI.md",
     "20. wiki/Uri(android).md",
-    "20. wiki/각주 다는 법.md",
     "20. wiki/자원(프로그래밍).md",
     "20. wiki/마크다운 사용법.md",
     "20. wiki/노트 간의 연결.md",
-    "90. Template/11. 위키 템플릿 - 기술.md",
     "10. Daily Notes/2024-06-12.md",
     "99. Attachment/Pasted image 20240612163505.png",
     "99. Attachment/Pasted image 20240612163447.png",
     "99. Attachment/Pasted image 20240612160721.png",
     "20. wiki/속성 알아보기.md",
-    "90. Template/10. 위키 템플릿.md",
     "90. Template/20. 데일리 노트 템플릿.md",
     "00. Inbox/Invalid date.md",
     "20. wiki",
