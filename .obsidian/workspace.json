@@ -45,9 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "212ea8a39067f680",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,7 +239,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "368cbf03334afd11",
+  "active": "212ea8a39067f680",
   "lastOpenFiles": [
     "00. Inbox/FileStream(android).md",
     "00. Inbox/Untitled.md",
