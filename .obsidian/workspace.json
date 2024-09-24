@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. wiki/URL.md",
+                "file": "00. Inbox/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,19 +45,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "212ea8a39067f680",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,34 +228,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "212ea8a39067f680",
+  "active": "a588d23266c1b6a1",
   "lastOpenFiles": [
     "00. Inbox/FileStream(android).md",
     "00. Inbox/Untitled.md",
+    "00. Inbox/Welcome.md",
+    "10. Daily Notes/2024-06-12.md",
+    "80. Canvas/Untitled.canvas",
     "90. Template/11. 위키 템플릿 - 기술.md",
     "90. Template/10. 위키 템플릿.md",
-    "20. wiki/URI.md",
+    "20. wiki/속성 알아보기.md",
+    "20. wiki/마크다운 사용법.md",
     "20. wiki/URL.md",
+    "20. wiki/URI.md",
     "20. wiki/각주 다는 법.md",
     "20. wiki/Cursor.md",
     "20. wiki/Content Provider.md",
-    "00. Inbox/Welcome.md",
     "20. wiki/EditText 포커스 제거법.md",
     "Untitled",
     "99. Attachment/Pasted image 20240612180626.png",
     "20. wiki/Uri(android).md",
     "20. wiki/자원(프로그래밍).md",
-    "20. wiki/마크다운 사용법.md",
     "20. wiki/노트 간의 연결.md",
-    "10. Daily Notes/2024-06-12.md",
     "99. Attachment/Pasted image 20240612163505.png",
     "99. Attachment/Pasted image 20240612163447.png",
     "99. Attachment/Pasted image 20240612160721.png",
-    "20. wiki/속성 알아보기.md",
     "90. Template/20. 데일리 노트 템플릿.md",
     "00. Inbox/Invalid date.md",
     "20. wiki",
-    "80. Canvas/Untitled.canvas",
     "80. Canvas",
     "00. Inbox/2024-.md",
     "99. Attachment",
