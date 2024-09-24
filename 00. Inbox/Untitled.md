@@ -1,6 +1,6 @@
 ---
 created: 2024-08-07T20:16
-updated: 2024-08-07T20:17
+updated: 2024-09-24T16:30
 ---
 Android People Sample  
 =====================  
@@ -21,7 +21,7 @@ with the corresponding dynamic shortcut.
 [2]: https://developer.android.com/reference/android/app/Person  
 [3]: https://developer.android.com/reference/android/content/pm/ShortcutManager#addDynamicShortcuts(java.util.List%3Candroid.content.pm.ShortcutInfo%3E)  
 [4]: https://developer.android.com/reference/android/content/pm/ShortcutInfo.Builder#setLocusId(android.content.LocusId)  
-  
+
 ## Bubbles  
   
 Bubbles are built into the Notification system. They float on top of other app content and follow  
