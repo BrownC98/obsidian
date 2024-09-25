@@ -7,5 +7,6 @@
   "newFileFolderPath": "00. Inbox",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "99. Attachment",
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }
