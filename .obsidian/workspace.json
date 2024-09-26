@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f79e97b92d0ead4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/Untitled 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. wiki/URI.md",
+                "file": "00. Inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. wiki/URI.md",
+                "file": "00. Inbox/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. wiki/URI.md"
+                "file": "00. Inbox/Untitled 1.md"
               }
             }
           },
@@ -155,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20. wiki/URI.md",
+                "file": "00. Inbox/Untitled 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,11 +216,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a588d23266c1b6a1",
+  "active": "f79e97b92d0ead4d",
   "lastOpenFiles": [
+    "20. wiki/URI.md",
+    "00. Inbox/Untitled 1.md",
     "20. wiki/자원(프로그래밍).md",
     "20. wiki/URL.md",
-    "20. wiki/URI.md",
     "20. wiki/EditText 포커스 제거법.md",
     "20. wiki/Content Provider.md",
     "20. wiki/Cursor.md",
@@ -215,7 +230,6 @@
     "20. wiki/각주 다는 법.md",
     "20. wiki/Uri(android).md",
     "00. Inbox/FileStream(android).md",
-    "00. Inbox/Untitled 1.md",
     "00. Inbox/Untitled.md",
     "10. Daily Notes/2024-06-12.md",
     "20. wiki/속성 알아보기.md",
