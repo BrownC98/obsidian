@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65db10bdd8c285a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/메모.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/발표 대본.md",
+                "file": "00. Inbox/메모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/발표 대본.md",
+                "file": "00. Inbox/메모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/발표 대본.md"
+                "file": "00. Inbox/메모.md"
               }
             }
           },
@@ -156,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Inbox/발표 대본.md",
+                "file": "00. Inbox/메모.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,10 +217,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "735f803dfa2373ca",
+  "active": "65db10bdd8c285a7",
   "lastOpenFiles": [
-    "00. Inbox/Untitled.md",
     "00. Inbox/발표 대본.md",
+    "00. Inbox/메모.md",
+    "00. Inbox/Untitled.md",
     "00. Inbox/Welcome.md",
     "00. Inbox/Untitled 2.md",
     "20. wiki/URI.md",
