@@ -51,9 +51,39 @@
               "icon": "lucide-file",
               "title": "메모"
             }
+          },
+          {
+            "id": "682bf2c64fc9aa43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/메모.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "메모"
+            }
+          },
+          {
+            "id": "f8a8b63225ed3a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Daily Notes/2024-11-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-23"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -125,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/메모.md",
+                "file": "10. Daily Notes/2024-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 메모"
+              "title": "Backlinks for 2024-11-23"
             }
           },
           {
@@ -144,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/메모.md",
+                "file": "10. Daily Notes/2024-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 메모"
+              "title": "Outgoing links from 2024-11-23"
             }
           },
           {
@@ -171,10 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/메모.md"
+                "file": "10. Daily Notes/2024-11-23.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 메모"
+              "title": "Outline of 2024-11-23"
             }
           },
           {
@@ -204,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Inbox/메모.md",
+                "file": "10. Daily Notes/2024-11-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 메모"
+              "title": "Graph of 2024-11-23"
             }
           }
         ]
@@ -253,12 +284,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4fa6e31097295b2b",
+  "active": "f8a8b63225ed3a0d",
   "lastOpenFiles": [
-    "00. Inbox/발표 대본.md",
+    "90. Template/20. 데일리 노트 템플릿.md",
+    "10. Daily Notes/2024-11-23.md",
+    "90. Template/11. 위키 템플릿 - 기술.md",
+    "90. Template/10. 위키 템플릿.md",
+    "00. Inbox/Untitled 1.md",
     "00. Inbox/메모.md",
+    "00. Inbox/발표 대본.md",
     "00. Inbox/Untitled.md",
     "00. Inbox/Welcome.md",
+    "10. Daily Notes/2024-06-12.md",
+    "10. Daily Notes/Untitled 1.md",
     "00. Inbox/Untitled 2.md",
     "20. wiki/URI.md",
     "20. wiki/자원(프로그래밍).md",
@@ -271,11 +309,7 @@
     "20. wiki/각주 다는 법.md",
     "20. wiki/Uri(android).md",
     "00. Inbox/FileStream(android).md",
-    "10. Daily Notes/2024-06-12.md",
     "20. wiki/속성 알아보기.md",
-    "90. Template/10. 위키 템플릿.md",
-    "90. Template/20. 데일리 노트 템플릿.md",
-    "90. Template/11. 위키 템플릿 - 기술.md",
     "80. Canvas/Untitled.canvas",
     "30. study",
     "99. Attachment/Pasted image 20240612180626.png",
