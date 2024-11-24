@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2024-11-23.md",
+                "file": "10. Daily Notes/2024-11-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-23"
+              "title": "2024-11-24"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -224,10 +225,11 @@
   },
   "active": "f8a8b63225ed3a0d",
   "lastOpenFiles": [
-    "00. Inbox/발표 대본.md",
-    "00. Inbox/메모.md",
     "10. Daily Notes/2024-11-23.md",
     "90. Template/20. 데일리 노트 템플릿.md",
+    "10. Daily Notes/2024-11-24.md",
+    "00. Inbox/발표 대본.md",
+    "00. Inbox/메모.md",
     "90. Template/11. 위키 템플릿 - 기술.md",
     "90. Template/10. 위키 템플릿.md",
     "00. Inbox/Untitled 1.md",
@@ -257,7 +259,6 @@
     "00. Inbox/Invalid date.md",
     "20. wiki",
     "80. Canvas",
-    "00. Inbox/2024-.md",
     "99. Attachment",
     "90. Template",
     "10. Daily Notes",
