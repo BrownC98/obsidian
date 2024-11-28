@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. TeamNova/2024-11-28.md",
+                "file": "40. TeamNova/응용1/팀 프로젝트/서비스 타겟층 분석.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-28"
+              "title": "서비스 타겟층 분석"
             }
           }
         ],
@@ -240,8 +240,12 @@
   },
   "active": "aefbe0e953280c57",
   "lastOpenFiles": [
-    "40. TeamNova/Untitled 2.md",
+    "10. Daily Notes/2024-11-29.md",
+    "40. TeamNova/응용1/팀 프로젝트/서비스 타겟층 분석.md",
+    "40. TeamNova/응용1/팀 프로젝트",
+    "40. TeamNova/응용1",
     "40. TeamNova/2024-11-28.md",
+    "40. TeamNova/Untitled 2.md",
     "10. Daily Notes/2024-11-28.md",
     "10. Daily Notes/2024-11-27.md",
     "40. TeamNova",
@@ -266,8 +270,6 @@
     "20. wiki/Content Provider.md",
     "20. wiki/Cursor.md",
     "20. wiki/마크다운 사용법.md",
-    "20. wiki/노트 간의 연결.md",
-    "20. wiki/각주 다는 법.md",
     "80. Canvas/Untitled.canvas",
     "30. study",
     "99. Attachment/Pasted image 20240612180626.png",
