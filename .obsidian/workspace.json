@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. TeamNova/응용1/팀 프로젝트/서비스 타겟층 분석.md",
+                "file": "40. TeamNova/응용1/팀 프로젝트/서비스타겟 60대 이상 노인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "서비스 타겟층 분석"
+              "title": "서비스타겟 60대 이상 노인"
             }
           }
         ],
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -241,8 +240,8 @@
   },
   "active": "aefbe0e953280c57",
   "lastOpenFiles": [
-    "10. Daily Notes/2024-11-29.md",
     "40. TeamNova/응용1/팀 프로젝트/서비스 타겟층 분석.md",
+    "40. TeamNova/응용1/팀 프로젝트/서비스타겟 60대 이상 노인.md",
     "40. TeamNova/응용1/팀 프로젝트",
     "40. TeamNova/응용1",
     "40. TeamNova/2024-11-28.md",
