@@ -12,7 +12,6 @@
   ],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "00. Inbox/Welcome.md": "dd98c57531e7fc38038456927ff883cab76dcd94b680e95ba025c7615523f9f3",
     "20. wiki/속성 알아보기.md": "4459d9199d32d72b7adf9d1d0f3ef2cc5ec27ef5b80e6d74feab426bd902bebf",
     "20. wiki/각주 다는 법.md": "97fda7e4d43f0ffe7629a7463dff2abc78b404113b9354f5fb07a4506e6354af",
     "20. wiki/노트 간의 연결.md": "2140c745b81f4b56b06fe8cb7ca53ddbc7017998097a7195555706ff1280ef7f",
@@ -26,7 +25,6 @@
     "20. wiki/EditText 포커스 제거법.md": "4529d4efc9acde098261055b54ec3c21e3205ccf82c46932644da8c44026e8f0",
     "20. wiki/Content Provider.md": "b2587b796ea9738bd61eae5e068d297a15f5dea5c75063b461efdbd0006571ee",
     "20. wiki/Cursor.md": "a21ffaea6f186bdd1e836dd1becbccd5e255926524dc15f58ab6de10d25045d8",
-    "00. Inbox/Untitled.md": "0568d0055e6a3a066b767339fe0c64553ed1c3eb9ded8d3f1631dad244cc940b",
     "20. wiki/마크다운 사용법.md": "7d64370219e585391197cb27d403698fef288040341402ce3e5da73e82b63933",
     "00. Inbox/발표 대본.md": "dbaf5fc7220b95c41d5b4fe74cc571261f90f17db4866b320ce13f69e954a5bc",
     "00. Inbox/메모.md": "6f03e6926afdd6878a10127104f8425019c747f7a079334a421dcb2fa01e034c",
@@ -36,6 +34,8 @@
     "10. Daily Notes/2024-11-27.md": "8d3b6d90e98908891f14b71871361f185c9ddf1a455d5ac353c69e19375c8d04",
     "40. TeamNova/2024-11-28.md": "e0f5e3b04b40bb95587c7f5ef52a09d467359bc4f5de67abfc18bfa3a134284d",
     "40. TeamNova/응용1/팀 프로젝트/서비스 타겟층 분석.md": "10cd5da0c338bae41deae3a1943ff8bf4724369c0653fc589b66ef7925fb1d6d",
-    "40. TeamNova/응용1/팀 프로젝트/서비스타겟 60대 이상 노인.md": "b702fbc554e5c2ff3f86798b882c8555d5a496ee26e135e3bb17e64270acc09c"
+    "40. TeamNova/응용1/팀 프로젝트/서비스타겟 60대 이상 노인.md": "0d616e0e753334e0293e20db6aedc39f2c64072049b5599187d53a27a81ed8ff",
+    "10. Daily Notes/2024-12-02.md": "6708636f6082235c54226a87fd64288e2ac41be3b4a0f19c0d160298261cd8b5",
+    "40. TeamNova/응용1/팀 프로젝트/2023년도 노인실태조사 보고서 조사.md": "2661797bc04952279d94a6b9f84c66c52432a1a5cbb696d63bd7c836e92bfec7"
   }
 }
