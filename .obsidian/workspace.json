@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8a8b63225ed3a0d",
+            "id": "6205de911443b30d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2024-11-27.md",
+                "file": "00. Inbox/LLM 추론 테스트용 문제.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-11-27"
-            }
-          },
-          {
-            "id": "aefbe0e953280c57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Daily Notes/2024-12-06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-06"
+              "title": "LLM 추론 테스트용 문제"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Daily Notes/2024-11-23.md"
+                "file": "00. Inbox/LLM 추론 테스트용 문제.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-23"
+              "title": "Outline of LLM 추론 테스트용 문제"
             }
           },
           {
@@ -189,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10. Daily Notes/2024-11-23.md",
+                "file": "00. Inbox/LLM 추론 테스트용 문제.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +201,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024-11-23"
+              "title": "Graph of LLM 추론 테스트용 문제"
             }
           }
         ]
@@ -238,10 +222,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aefbe0e953280c57",
+  "active": "6205de911443b30d",
   "lastOpenFiles": [
-    "40. TeamNova/응용1/팀 프로젝트/2023년도 노인실태조사 보고서 조사.md",
     "10. Daily Notes/2024-12-06.md",
+    "00. Inbox/LLM 추론 테스트용 문제.md",
+    "40. TeamNova/응용1/팀 프로젝트/2023년도 노인실태조사 보고서 조사.md",
     "10. Daily Notes/2024-12-02.md",
     "10. Daily Notes/2024-11-27.md",
     "40. TeamNova/응용1/팀 프로젝트/서비스타겟 60대 이상 노인.md",
@@ -250,7 +235,6 @@
     "90. Template/30. 날짜 표시 노트 템플릿.md",
     "00. Inbox/Welcome.md",
     "00. Inbox/Untitled 1.md",
-    "00. Inbox/Untitled.md",
     "00. Inbox/Untitled 2.md",
     "90. Template/11. 위키 템플릿 - 기술.md",
     "90. Template/10. 위키 템플릿.md",
