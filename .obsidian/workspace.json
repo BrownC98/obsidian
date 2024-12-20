@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. TeamNova/응용1/팀 프로젝트/타겟분석/서비스 타겟층 분석.md",
+                "file": "10. Daily Notes/2024-12-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "서비스 타겟층 분석"
+              "title": "2024-12-20"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -225,8 +224,9 @@
   },
   "active": "6c163cacac729b86",
   "lastOpenFiles": [
-    "40. TeamNova/응용1/팀 프로젝트/타겟분석/서비스타겟 60대 이상 노인.md",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석/서비스 타겟층 분석.md",
+    "10. Daily Notes/2024-12-20.md",
+    "40. TeamNova/응용1/팀 프로젝트/타겟분석/서비스타겟 60대 이상 노인.md",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
     "00. Inbox/LLM 추론 테스트용 문제.md",
     "00. Inbox/발성소모임 발표거리.md",
