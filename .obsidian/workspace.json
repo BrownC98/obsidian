@@ -11,10 +11,24 @@
             "id": "8a7c05b5cf760bec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/게임 기획 - 부모님 관심끌기.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "게임 기획 - 부모님 관심끌기"
             }
           }
         ]
@@ -36,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -220,6 +234,7 @@
   },
   "active": "8a7c05b5cf760bec",
   "lastOpenFiles": [
+    "00. Inbox/게임 기획 - 부모님 관심끌기.md",
     "00. Inbox/발성소모임 발표거리.md",
     "00. Inbox/방치의 정의.md",
     "00. Inbox/단어의 정의를 조사하는 법.md",
@@ -246,7 +261,6 @@
     "90. Template/20. 데일리 노트 템플릿.md",
     "90. Template/30. 날짜 표시 노트 템플릿.md",
     "00. Inbox/Welcome.md",
-    "00. Inbox/Untitled 1.md",
     "40. TeamNova/응용1/팀 프로젝트",
     "40. TeamNova/응용1",
     "40. TeamNova",
