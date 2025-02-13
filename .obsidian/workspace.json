@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "게임 기획 - 부모님 관심끌기"
             }
+          },
+          {
+            "id": "71b0cecc67c7258c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/게임 대회 조사.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "게임 대회 조사"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,9 +257,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a7c05b5cf760bec",
+  "active": "71b0cecc67c7258c",
   "lastOpenFiles": [
     "00. Inbox/게임 기획 - 부모님 관심끌기.md",
+    "40. TeamNova/2024-11-28.md",
+    "00. Inbox/게임 대회 조사.md",
     "00. Inbox/발성소모임 발표거리.md",
     "00. Inbox/방치의 정의.md",
     "00. Inbox/단어의 정의를 조사하는 법.md",
@@ -259,8 +286,6 @@
     "10. Daily Notes/2024-12-02.md",
     "10. Daily Notes/2024-11-27.md",
     "90. Template/20. 데일리 노트 템플릿.md",
-    "90. Template/30. 날짜 표시 노트 템플릿.md",
-    "00. Inbox/Welcome.md",
     "40. TeamNova/응용1/팀 프로젝트",
     "40. TeamNova/응용1",
     "40. TeamNova",
