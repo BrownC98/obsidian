@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
+                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/개발메모.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "게임 시나리오"
+              "title": "개발메모"
             }
           }
         ],
@@ -262,8 +262,9 @@
   },
   "active": "71b0cecc67c7258c",
   "lastOpenFiles": [
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/공모전 정보.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/개발메모.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/공모전 정보.md",
     "00. Inbox/게임 대회 조사.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "00. Inbox/게임 기획 - 부모님 관심끌기.md",
@@ -289,7 +290,6 @@
     "00. Inbox/FileStream(android).md",
     "10. Daily Notes/2024-06-12.md",
     "10. Daily Notes/2024-12-06.md",
-    "10. Daily Notes/2024-12-02.md",
     "40. TeamNova/응용1/팀 프로젝트",
     "40. TeamNova/응용1",
     "40. TeamNova",
