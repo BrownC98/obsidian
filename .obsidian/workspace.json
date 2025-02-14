@@ -39,7 +39,7 @@
               "state": {
                 "file": "00. Inbox/게임 대회 조사.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
