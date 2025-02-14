@@ -39,7 +39,7 @@
               "state": {
                 "file": "00. Inbox/게임 대회 조사.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -176,10 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/LLM 추론 테스트용 문제.md"
+                "file": "00. Inbox/게임 대회 조사.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM 추론 테스트용 문제"
+              "title": "Outline of 게임 대회 조사"
             }
           },
           {
@@ -209,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. Inbox/LLM 추론 테스트용 문제.md",
+                "file": "00. Inbox/게임 대회 조사.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +240,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of LLM 추론 테스트용 문제"
+              "title": "Graph of 게임 대회 조사"
             }
           }
         ]
