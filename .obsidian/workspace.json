@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/개발메모.md",
+                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "개발메모"
+              "title": "게임 시나리오"
+            }
+          },
+          {
+            "id": "7d869955a7498286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오 v2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "게임 시나리오 v2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,11 +284,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "71b0cecc67c7258c",
+  "active": "7d869955a7498286",
   "lastOpenFiles": [
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/개발메모.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/공모전 정보.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오 v2.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/개발메모.md",
     "00. Inbox/게임 대회 조사.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "00. Inbox/게임 기획 - 부모님 관심끌기.md",
@@ -289,7 +314,6 @@
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
     "00. Inbox/FileStream(android).md",
     "10. Daily Notes/2024-06-12.md",
-    "10. Daily Notes/2024-12-06.md",
     "40. TeamNova/응용1/팀 프로젝트",
     "40. TeamNova/응용1",
     "40. TeamNova",
