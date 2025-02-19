@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2025-02-18.md",
+                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오 v2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-18"
+              "title": "게임 시나리오 v2"
+            }
+          },
+          {
+            "id": "eb6c85d62810b0ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -284,15 +296,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7d869955a7498286",
+  "active": "eb6c85d62810b0ef",
   "lastOpenFiles": [
-    "00. Inbox/발성소모임 발표거리.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/개발메모.md",
+    "00. Inbox/발표 대본.md",
     "10. Daily Notes/2025-02-18.md",
+    "00. Inbox/발성소모임 발표거리.md",
     "10. Daily Notes/2025-02-17.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오 v2.md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/공모전 정보.md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/개발메모.md",
     "00. Inbox/게임 대회 조사.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "00. Inbox/게임 기획 - 부모님 관심끌기.md",
@@ -307,7 +320,6 @@
     "10. Daily Notes/2025-01-15.md",
     "10. Daily Notes/2025-01-22.md",
     "00. Inbox/메모.md",
-    "00. Inbox/발표 대본.md",
     "10. Daily Notes/2025-01-21.md",
     "40. TeamNova/응용1/팀 프로젝트/2023년도 노인실태조사 보고서 조사.md",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석/서비스 타겟층 분석.md",
