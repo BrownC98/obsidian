@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2025-02-19.md",
+                "file": "20. wiki/Uri(android).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-19"
+              "title": "Uri(android)"
             }
           }
         ],
@@ -308,10 +308,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eb6c85d62810b0ef",
+  "active": "475dd781cf2c1d0a",
   "lastOpenFiles": [
-    "90. Template/11. 위키 템플릿 - 기술.md",
+    "50. 개념의 본질",
+    "20. wiki/URI.md",
+    "20. wiki/자원(프로그래밍).md",
+    "20. wiki/Content Provider.md",
+    "20. wiki/속성 알아보기.md",
+    "20. wiki/노트 간의 연결.md",
+    "20. wiki/마크다운 사용법.md",
     "10. Daily Notes/2025-02-19.md",
+    "90. Template/11. 위키 템플릿 - 기술.md",
     "00. Inbox/발성소모임 발표거리.md",
     "00. Inbox/LLM 추론 테스트용 문제.md",
     "00. Inbox/FileStream(android).md",
@@ -330,13 +337,6 @@
     "00. Inbox/단어의 정의를 조사하는 법.md",
     "10. Daily Notes/2025-02-04.md",
     "00. Inbox/기능의 정의.md",
-    "40. TeamNova/응용1/팀 프로젝트/기능명세서 작성(기능 조사).md",
-    "40. TeamNova/응용1/팀 프로젝트/타겟분석/나이대별 분석.md",
-    "10. Daily Notes/2025-01-15.md",
-    "10. Daily Notes/2025-01-22.md",
-    "00. Inbox/메모.md",
-    "10. Daily Notes/2025-01-21.md",
-    "40. TeamNova/응용1/팀 프로젝트/2023년도 노인실태조사 보고서 조사.md",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
     "40. TeamNova/응용1/팀 프로젝트",
     "40. TeamNova/응용1",
