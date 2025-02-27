@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/개발순서.md",
+                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "개발순서"
+              "title": "reverse 2048"
             }
           }
         ],
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -335,8 +334,13 @@
   },
   "active": "207845dfe3fc4a4c",
   "lastOpenFiles": [
-    "00. Inbox/게임 대회 조사.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/공모전 정보.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오 v2.md",
+    "00. Inbox/단어의 정의를 조사하는 법.md",
+    "00. Inbox/게임 기획 - 부모님 관심끌기.md",
     "00. Inbox/개발순서.md",
+    "00. Inbox/게임 대회 조사.md",
     "20. wiki/Uri(android).md",
     "50. 개념의 본질",
     "20. wiki/URI.md",
@@ -350,18 +354,13 @@
     "00. Inbox/발성소모임 발표거리.md",
     "00. Inbox/LLM 추론 테스트용 문제.md",
     "00. Inbox/FileStream(android).md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/개발메모.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048.md",
     "00. Inbox/발표 대본.md",
     "10. Daily Notes/2025-02-18.md",
     "10. Daily Notes/2025-02-17.md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오 v2.md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/공모전 정보.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
-    "00. Inbox/게임 기획 - 부모님 관심끌기.md",
     "40. TeamNova/2024-11-28.md",
     "00. Inbox/방치의 정의.md",
-    "00. Inbox/단어의 정의를 조사하는 법.md",
     "10. Daily Notes/2025-02-04.md",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
     "40. TeamNova/응용1/팀 프로젝트",
