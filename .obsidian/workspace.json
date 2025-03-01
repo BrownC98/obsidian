@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048.md",
+                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048 개발노트.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "reverse 2048"
+              "title": "reverse 2048 개발노트"
             }
           }
         ],
@@ -326,8 +326,8 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false
     }
@@ -354,7 +354,7 @@
     "00. Inbox/발성소모임 발표거리.md",
     "00. Inbox/LLM 추론 테스트용 문제.md",
     "00. Inbox/FileStream(android).md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048.md",
+    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048 개발노트.md",
     "00. Inbox/발표 대본.md",
     "10. Daily Notes/2025-02-18.md",
     "10. Daily Notes/2025-02-17.md",
