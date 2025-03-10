@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a7c05b5cf760bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Inbox/게임 기획 - 부모님 관심끌기.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "게임 기획 - 부모님 관심끌기"
-            }
-          },
-          {
-            "id": "71b0cecc67c7258c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "게임 시나리오"
-            }
-          },
-          {
-            "id": "7d869955a7498286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오 v2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "게임 시나리오 v2"
-            }
-          },
-          {
-            "id": "eb6c85d62810b0ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Inbox/게임 대회 조사.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "게임 대회 조사"
-            }
-          },
-          {
             "id": "207845dfe3fc4a4c",
             "type": "leaf",
             "state": {
@@ -126,9 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-03-07"
             }
+          },
+          {
+            "id": "cbad110bef307f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Daily Notes/2025-03-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-10"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,8 +260,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "207845dfe3fc4a4c",
+  "active": "cbad110bef307f2f",
   "lastOpenFiles": [
+    "10. Daily Notes/2025-03-10.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048 개발노트.md",
     "10. Daily Notes/2025-03-07.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
@@ -361,7 +290,6 @@
     "10. Daily Notes/2025-02-17.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "40. TeamNova/2024-11-28.md",
-    "00. Inbox/방치의 정의.md",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
     "40. TeamNova/응용1/팀 프로젝트",
     "40. TeamNova/응용1",
