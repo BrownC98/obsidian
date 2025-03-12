@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2025-03-11.md",
+                "file": "10. Daily Notes/2025-03-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-11"
+              "title": "2025-03-12"
             }
           }
         ],
@@ -262,8 +262,10 @@
   },
   "active": "cbad110bef307f2f",
   "lastOpenFiles": [
-    "10. Daily Notes/2025-03-10.md",
     "10. Daily Notes/2025-03-11.md",
+    "10. Daily Notes/2025-03-12.md",
+    "90. Template/10. 위키 템플릿.md",
+    "10. Daily Notes/2025-03-10.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048 개발노트.md",
     "10. Daily Notes/2025-03-07.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
@@ -287,8 +289,6 @@
     "00. Inbox/LLM 추론 테스트용 문제.md",
     "00. Inbox/FileStream(android).md",
     "00. Inbox/발표 대본.md",
-    "10. Daily Notes/2025-02-18.md",
-    "10. Daily Notes/2025-02-17.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
     "40. TeamNova/응용1/팀 프로젝트",
