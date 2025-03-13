@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/게임 개발 직무 목록.md",
+                "file": "00. Inbox/게임 개발 직무 목록과 완성기준.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "게임 개발 직무 목록"
+              "title": "게임 개발 직무 목록과 완성기준"
             }
           }
         ],
@@ -287,7 +287,7 @@
   "active": "5695cdbcde3dd797",
   "lastOpenFiles": [
     "10. Daily Notes/2025-03-12.md",
-    "00. Inbox/게임 개발 직무 목록.md",
+    "00. Inbox/게임 개발 직무 목록과 완성기준.md",
     "10. Daily Notes/2025-03-11.md",
     "90. Template/10. 위키 템플릿.md",
     "10. Daily Notes/2025-03-10.md",
