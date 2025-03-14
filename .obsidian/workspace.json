@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/게임 개발 직무 목록과 완성기준.md",
+                "file": "10. Daily Notes/2025-03-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "게임 개발 직무 목록과 완성기준"
+              "title": "2025-03-14"
             }
           }
         ],
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -287,8 +286,9 @@
   },
   "active": "5695cdbcde3dd797",
   "lastOpenFiles": [
-    "10. Daily Notes/2025-03-12.md",
     "00. Inbox/게임 개발 직무 목록과 완성기준.md",
+    "10. Daily Notes/2025-03-14.md",
+    "10. Daily Notes/2025-03-12.md",
     "10. Daily Notes/2025-03-11.md",
     "90. Template/10. 위키 템플릿.md",
     "10. Daily Notes/2025-03-10.md",
@@ -313,7 +313,6 @@
     "90. Template/11. 위키 템플릿 - 기술.md",
     "00. Inbox/발성소모임 발표거리.md",
     "00. Inbox/LLM 추론 테스트용 문제.md",
-    "00. Inbox/FileStream(android).md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
     "40. TeamNova/응용1/팀 프로젝트",
