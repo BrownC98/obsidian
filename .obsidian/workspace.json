@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2025-04-10.md",
+                "file": "60. 소설/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-10"
+              "title": "Untitled"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -238,8 +237,10 @@
   },
   "active": "cbad110bef307f2f",
   "lastOpenFiles": [
-    "10. Daily Notes/2025-04-04.md",
     "10. Daily Notes/2025-04-10.md",
+    "60. 소설/Untitled.md",
+    "60. 소설",
+    "10. Daily Notes/2025-04-04.md",
     "10. Daily Notes/2025-04-03.md",
     "40. TeamNova/응용1/팀 프로젝트/2023년도 노인실태조사 보고서 조사.md",
     "00. Inbox/게임 대회 조사.md",
@@ -264,7 +265,6 @@
     "10. Daily Notes/2025-03-10.md",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/reverse 2048 개발노트.md",
     "10. Daily Notes/2025-03-07.md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/공모전 정보.md",
     "50. 개념의 본질",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
@@ -279,7 +279,6 @@
     "99. Attachment/Pasted image 20240612163447.png",
     "99. Attachment/Pasted image 20240612160721.png",
     "20. wiki",
-    "80. Canvas",
-    "99. Attachment"
+    "80. Canvas"
   ]
 }
