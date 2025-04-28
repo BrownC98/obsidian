@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "2025-04-28"
             }
+          },
+          {
+            "id": "d07c963ffb6936cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,7 +248,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cbad110bef307f2f",
+  "active": "d07c963ffb6936cc",
   "lastOpenFiles": [
     "10. Daily Notes/2025-04-22.md",
     "10. Daily Notes/2025-04-28.md",
