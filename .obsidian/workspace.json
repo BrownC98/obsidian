@@ -35,12 +35,24 @@
             "id": "d07c963ffb6936cc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "10. Daily Notes/2025-05-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "2025-05-01"
             }
           }
         ],
@@ -250,8 +262,10 @@
   },
   "active": "d07c963ffb6936cc",
   "lastOpenFiles": [
-    "10. Daily Notes/2025-04-22.md",
     "10. Daily Notes/2025-04-28.md",
+    "10. Daily Notes/2025-05-01.md",
+    "40. TeamNova/2024-11-28.md",
+    "10. Daily Notes/2025-04-22.md",
     "60. 소설/Untitled.md",
     "10. Daily Notes/2025-04-10.md",
     "60. 소설",
@@ -276,8 +290,6 @@
     "10. Daily Notes/2025-03-14.md",
     "00. Inbox/게임 개발 직무 목록과 완성기준.md",
     "10. Daily Notes/2025-03-11.md",
-    "90. Template/10. 위키 템플릿.md",
-    "10. Daily Notes/2025-03-10.md",
     "50. 개념의 본질",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
