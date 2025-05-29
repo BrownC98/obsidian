@@ -237,8 +237,9 @@
   },
   "active": "d07c963ffb6936cc",
   "lastOpenFiles": [
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/14. LLM 활용 가이드.md",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/15. 분산 환경 배포 및 운영 가이드.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/00-LLM 활용 가이드.md",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/14. LLM 활용 가이드.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/00. 문서목록.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/05. 주요 데이터 모델 정의.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/03. PHP 백엔드 API 명세.md",
@@ -262,7 +263,6 @@
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/주요 데이터 모델 정의.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/데이터베이스 스키마.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/PHP 백엔드 API 명세.md",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/Java 실시간 소켓 서버 메시지 프로토콜.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서",
     "40. TeamNova/ASSA_V2 프로젝트",
