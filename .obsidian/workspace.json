@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbad110bef307f2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Daily Notes/2025-04-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-28"
-            }
-          },
-          {
             "id": "d07c963ffb6936cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2025-05-29.md",
+                "file": "40. TeamNova/ASSA_V2 프로젝트/공통 문서/문서목록.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-29"
+              "title": "문서목록"
+            }
+          },
+          {
+            "id": "cb54db665f6ba79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40. TeamNova/ASSA_V2 프로젝트/공통 문서/데이터베이스 스키마 (MySQL).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "데이터베이스 스키마 (MySQL)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,12 +261,25 @@
   },
   "active": "d07c963ffb6936cc",
   "lastOpenFiles": [
-    "10. Daily Notes/2025-05-26.md",
+    "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출/ASSA_android_요건정의서.md",
+    "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출/ASSA_REALTIME_요건정의서.md",
+    "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출/ASSA_API_요건정의서.md",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/문서목록.md",
+    "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
     "10. Daily Notes/2025-05-29.md",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/PHP 백엔드 API 명세서.md",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/데이터베이스 스키마 (MySQL).md",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/ASSA - 통합 설계 및 개발 계획서 v1.0.md",
+    "10. Daily Notes/2025-04-28.md",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서",
+    "00. Inbox/Untitled.md",
+    "40. TeamNova/ASSA_V2 프로젝트",
+    "30. study/Untitled",
+    "Untitled",
+    "10. Daily Notes/2025-05-26.md",
     "10. Daily Notes/2025-05-23.md",
     "10. Daily Notes/2025-05-21.md",
     "10. Daily Notes/2025-05-01.md",
-    "10. Daily Notes/2025-04-28.md",
     "40. TeamNova/2024-11-28.md",
     "10. Daily Notes/2025-04-22.md",
     "60. 소설/Untitled.md",
@@ -281,29 +293,16 @@
     "00. Inbox/발표 대본.md",
     "00. Inbox/LLM 추론 테스트용 문제.md",
     "40. TeamNova/응용1/팀 프로젝트/기능명세서 작성(기능 조사).md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오.md",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전/게임 시나리오 v2.md",
-    "10. Daily Notes/2025-04-02.md",
-    "10. Daily Notes/2025-03-28.md",
-    "10. Daily Notes/2025-03-26.md",
-    "10. Daily Notes/2025-03-24.md",
-    "10. Daily Notes/2025-03-12.md",
     "80. Canvas/Untitled 1.canvas",
-    "10. Daily Notes/2025-03-18.md",
     "50. 개념의 본질",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
     "40. TeamNova/응용1/팀 프로젝트",
-    "40. TeamNova/응용1",
-    "40. TeamNova",
     "99. Attachment/Pasted image 20241126143416.png",
     "80. Canvas/Untitled.canvas",
-    "30. study",
     "99. Attachment/Pasted image 20240612180626.png",
     "99. Attachment/Pasted image 20240612163505.png",
     "99. Attachment/Pasted image 20240612163447.png",
-    "99. Attachment/Pasted image 20240612160721.png",
-    "20. wiki",
-    "80. Canvas"
+    "99. Attachment/Pasted image 20240612160721.png"
   ]
 }
