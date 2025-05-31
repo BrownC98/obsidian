@@ -86,17 +86,18 @@
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/10. 환경 설정 및 초기 구성 가이드.md": "dbf44621631f302b2acb8526e806b0f2022e4d59dbb52f0427315da300b2f754",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/03. PHP 백엔드 API 명세.md": "05512ee6b78c14f1ff98879bb96001131236415a4a15ccc1abe30f75e88c3dc2",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/07. 공통 개발 지침 및 원칙.md": "7b94ef8684e93b1800607ce9d45a6a577b1c7f9fc95dc155645ec5db048d5c1f",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/11. 더미 데이터 및 초기 데이터 정의.md": "facac46b9cd15d6a7a0cd3d5d283d731341f26dd3b34e70c1cb6fa063f4a7428",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/12. 컴포넌트 간 인터페이스 명세.md": "3848262a27ceda7b531fdd71af870153ab52c8d9edb4c18b9eca56b9728ff1ff",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/11. 더미 데이터 및 초기 데이터 정의.md": "3c0daac721ece123bc72c4ae7caa623b7a14cb481219042eda92885a5431f236",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/12. 컴포넌트 간 인터페이스 명세.md": "4eaa577dd2b21c485842a1ffaf352c0c64cda9cd58a4e3f1576a5a1dfef35955",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/13. 테스트 전략 및 테스트 케이스.md": "8a0966cde9d7a7e445612c307f4d188f8b0f3f4bd998499f34e52cafdf7e682f",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/08. 기술 스택.md": "01907bbd636e783b7c09fac436fa8107e78cc36a32633694d96316c39d95dde4",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/01. 통합 설계 및 개발 계획서.md": "36d046049dff5d7acf65b2d919ab14a9d7c52cadbb9d91099dac142b0784624e",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/01. 통합 설계 및 개발 계획서.md": "19cf7058e57252920bae7087b65be878543d502281beb9783806083923d1c6d8",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/05. 주요 데이터 모델 정의.md": "6f43d61f60a52e97d66312f59a974c43d100757a1b4fdcd664622943693755cf",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/04. Java 실시간 소켓 서버 메시지 프로토콜.md": "4003469cc65699a6b45f3e47c5687cca00f86f4f7b108e3c8ef7e1368190aa20",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/04. Java 실시간 소켓 서버 메시지 프로토콜.md": "016d912c7feb66ef369ce77eae14356c3ffbc9f7b3ccfb8cb001961ff39ca163",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/02. 데이터베이스 스키마.md": "5061546712553b4f0c6caa2b546e19b2681e31d246f0d2da33fdea47919cc57e",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/06. 개발 우선순위 및 MVP 정의.md": "e3fbd0879732d3fa7e9fffa59f4a2c63ee15348d3afd2195c7811ad01090631d",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/00. 문서목록.md": "9a32c74fe25f97246a0bf1db64997b2cc89411fc86f742ab513079394be79914",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/09. 프로젝트 구조 및 폴더 구조.md": "139809f177ab4519b5865dbed659e997e1338da2ddb502c013261137b2b05eb2",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/15. 분산 환경 배포 및 운영 가이드.md": "817ab2e6e1881078228f0524014d27ee46a239d141579494be0fe195737df891"
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/15. 분산 환경 배포 및 운영 가이드.md": "a5ed683429c6d45cd2ee0333a6eaacca868a086248fc30de596b3f7845a404f5",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/14. LLM 활용 가이드.md": "8d0bfcd2291e1c068a98d0b89f1b5adfb988aa164a9c0ad9dd571168d020e4d1"
   }
 }
