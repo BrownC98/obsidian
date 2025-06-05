@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. TeamNova/ASSA_V2 프로젝트/공통 문서/08. 기술 스택.md",
+                "file": "10. Daily Notes/2025-06-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "08. 기술 스택"
+              "title": "2025-06-05"
             }
           }
         ]
@@ -237,6 +237,8 @@
   },
   "active": "d07c963ffb6936cc",
   "lastOpenFiles": [
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/08. 기술 스택.md",
+    "10. Daily Notes/2025-06-05.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/11. 더미 데이터 및 초기 데이터 정의.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/14. LLM 활용 가이드.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/13. 테스트 전략 및 테스트 케이스.md",
@@ -259,10 +261,8 @@
     "40. TeamNova/ASSA_V2 프로젝트/09. 프로젝트 구조 및 폴더 구조.md",
     "40. TeamNova/ASSA_V2 프로젝트/02. 데이터베이스 스키마.md",
     "40. TeamNova/ASSA_V2 프로젝트/00. 문서목록.md",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/08. 기술 스택.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/문서목록.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/통합 설계 및 개발 계획서.md",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/주요 데이터 모델 정의.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서",
     "40. TeamNova/ASSA_V2 프로젝트",
