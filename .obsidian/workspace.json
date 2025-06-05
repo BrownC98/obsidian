@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-06-05"
             }
+          },
+          {
+            "id": "38815b1ff11f3310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/킹폴 답변.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "킹폴 답변"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,10 +260,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d07c963ffb6936cc",
+  "active": "38815b1ff11f3310",
   "lastOpenFiles": [
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/08. 기술 스택.md",
     "10. Daily Notes/2025-06-05.md",
+    "00. Inbox/킹폴 답변.md",
+    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/08. 기술 스택.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/11. 더미 데이터 및 초기 데이터 정의.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/14. LLM 활용 가이드.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/13. 테스트 전략 및 테스트 케이스.md",
@@ -262,7 +288,6 @@
     "40. TeamNova/ASSA_V2 프로젝트/02. 데이터베이스 스키마.md",
     "40. TeamNova/ASSA_V2 프로젝트/00. 문서목록.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/문서목록.md",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/통합 설계 및 개발 계획서.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서",
     "40. TeamNova/ASSA_V2 프로젝트",
