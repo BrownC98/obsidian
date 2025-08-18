@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2025-08-13.md",
+                "file": "10. Daily Notes/2025-08-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-13"
+              "title": "2025-08-18"
             }
           }
         ]
@@ -238,8 +238,9 @@
   },
   "active": "d5398febd5921aae",
   "lastOpenFiles": [
-    "10. Daily Notes/2025-07-29.md",
     "10. Daily Notes/2025-08-13.md",
+    "10. Daily Notes/2025-08-18.md",
+    "10. Daily Notes/2025-07-29.md",
     "10. Daily Notes/2025-07-10.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/07. 공통 개발 지침 및 원칙.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/03. PHP 백엔드 API 명세.md",
@@ -263,7 +264,6 @@
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/00. 문서목록.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출/ASSA_REALTIME_요건정의서.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출/ASSA_android_요건정의서.md",
-    "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출/ASSA_API_요건정의서.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서",
     "40. TeamNova/ASSA_V2 프로젝트",
