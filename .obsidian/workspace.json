@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2025-08-13.md",
+                "file": "10. Daily Notes/2025-08-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-13"
+              "title": "2025-08-25"
+            }
+          },
+          {
+            "id": "f479acf78e0f0200",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,6 +240,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -236,10 +250,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d5398febd5921aae",
+  "active": "f479acf78e0f0200",
   "lastOpenFiles": [
-    "10. Daily Notes/2025-08-18.md",
     "10. Daily Notes/2025-08-13.md",
+    "10. Daily Notes/2025-08-25.md",
+    "10. Daily Notes/2025-08-18.md",
     "10. Daily Notes/2025-07-29.md",
     "10. Daily Notes/2025-07-10.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/07. 공통 개발 지침 및 원칙.md",
@@ -263,7 +278,6 @@
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/02. 데이터베이스 스키마.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/00. 문서목록.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출/ASSA_REALTIME_요건정의서.md",
-    "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출/ASSA_android_요건정의서.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서",
     "40. TeamNova/ASSA_V2 프로젝트",
