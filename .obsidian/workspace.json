@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "2025-08-27"
             }
+          },
+          {
+            "id": "2a81b615a212e9af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f479acf78e0f0200",
+  "active": "2a81b615a212e9af",
   "lastOpenFiles": [
     "10. Daily Notes/2025-08-27.md",
     "10. Daily Notes/2025-08-13.md",
