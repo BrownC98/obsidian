@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Daily Notes/2025-09-05.md",
+                "file": "40. TeamNova/마이 앵커/이 프로젝트가 어떤 모듈로 이루어질지 크게 구분해서 이해하기 쉽게 설명해줘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-05"
+              "title": "이 프로젝트가 어떤 모듈로 이루어질지 크게 구분해서 이해하기 쉽게 설명해줘"
+            }
+          },
+          {
+            "id": "66b8b89fcc873eab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.49999618530273,
-    "collapsed": true
+    "width": 270.49999618530273
   },
   "right": {
     "id": "2053feaab8e779f8",
@@ -286,10 +297,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a81b615a212e9af",
+  "active": "66b8b89fcc873eab",
   "lastOpenFiles": [
-    "10. Daily Notes/2025-09-03.md",
+    "40. TeamNova/Untitled.md",
+    "40. TeamNova/마이 앵커/이 프로젝트가 어떤 모듈로 이루어질지 크게 구분해서 이해하기 쉽게 설명해줘.md",
+    "40. TeamNova/마이 앵커",
     "10. Daily Notes/2025-09-05.md",
+    "10. Daily Notes/2025-09-03.md",
     "10. Daily Notes/2025-09-02.md",
     "10. Daily Notes/2025-09-01.md",
     "10. Daily Notes/2025-08-27.md",
@@ -312,8 +326,6 @@
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/11. 더미 데이터 및 초기 데이터 정의.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/14. LLM 활용 가이드.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/13. 테스트 전략 및 테스트 케이스.md",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/12. 컴포넌트 간 인터페이스 명세.md",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/05. 주요 데이터 모델 정의.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서",
     "40. TeamNova/ASSA_V2 프로젝트",
@@ -324,7 +336,6 @@
     "50. 개념의 본질",
     "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석",
-    "40. TeamNova/응용1/팀 프로젝트",
     "99. Attachment/Pasted image 20241126143416.png",
     "80. Canvas/Untitled.canvas",
     "99. Attachment/Pasted image 20240612180626.png",
