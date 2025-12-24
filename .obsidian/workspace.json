@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "melotts-android-guide"
             }
+          },
+          {
+            "id": "d5f32c24af8c8ded",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -285,7 +297,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66b8b89fcc873eab",
+  "active": "d5f32c24af8c8ded",
   "lastOpenFiles": [
     "40. TeamNova/마이 앵커/이 프로젝트가 어떤 모듈로 이루어질지 크게 구분해서 이해하기 쉽게 설명해줘.md",
     "40. TeamNova/마이 앵커/melotts-android-guide.md",
