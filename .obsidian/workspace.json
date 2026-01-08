@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40. TeamNova/마이 앵커/walkthrough.md",
+                "file": "40. TeamNova/마이 앵커/melotts-android-guide.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "walkthrough"
+              "title": "melotts-android-guide"
             }
           }
         ],
@@ -263,8 +263,8 @@
   },
   "active": "9208c7b60ad3cd8c",
   "lastOpenFiles": [
-    "40. TeamNova/마이 앵커/탑다운 앱 구조.md",
     "40. TeamNova/마이 앵커/walkthrough.md",
+    "40. TeamNova/마이 앵커/탑다운 앱 구조.md",
     "00. Inbox/Untitled 2.md",
     "99. Attachment/walkthrough.md",
     "40. TeamNova/마이 앵커/melotts-android-guide.md",
