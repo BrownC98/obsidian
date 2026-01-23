@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "음성 어조 분석 및 아나운서 선정 계획"
             }
+          },
+          {
+            "id": "b9a64c2e3c953de7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +249,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fd401aada90edeae",
+  "active": "b9a64c2e3c953de7",
   "lastOpenFiles": [
     "00. Inbox/Untitled.base",
     "00. Inbox/Untitled 4.md",
