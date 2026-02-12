@@ -66,9 +66,21 @@
               "icon": "lucide-file",
               "title": "Untitled 4"
             }
+          },
+          {
+            "id": "a4002db0af8c542d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,7 +285,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aeba2b9d50589286",
+  "active": "a4002db0af8c542d",
   "lastOpenFiles": [
     "00. Inbox/Untitled 4.md",
     "00. Inbox/Untitled.base",
