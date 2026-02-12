@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8fd228c4f41181f",
+        "id": "41eaab90936ab4dc",
         "type": "tabs",
         "children": [
           {
-            "id": "fd401aada90edeae",
+            "id": "0b0451bdef8c0ac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/음성 어조 분석 및 아나운서 선정 계획.md",
+                "file": "40. TeamNova/응용2/LLM 파트.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "음성 어조 분석 및 아나운서 선정 계획"
-            }
-          },
-          {
-            "id": "b9a64c2e3c953de7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
-            "id": "aeba2b9d50589286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Inbox/Untitled 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 4"
-            }
-          },
-          {
-            "id": "a4002db0af8c542d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "LLM 파트"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,8 +236,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a4002db0af8c542d",
+  "active": "0b0451bdef8c0ac6",
   "lastOpenFiles": [
+    "40. TeamNova/Untitled 1.md",
+    "40. TeamNova/응용2/LLM 파트.md",
+    "40. TeamNova/응용2",
     "00. Inbox/Untitled 4.md",
     "00. Inbox/Untitled.base",
     "00. Inbox/음성 어조 분석 및 아나운서 선정 계획.md",
@@ -314,7 +268,6 @@
     "10. Daily Notes/2025-07-10.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/07. 공통 개발 지침 및 원칙.md",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서/03. PHP 백엔드 API 명세.md",
-    "40. TeamNova/ASSA_V2 프로젝트/공통 문서/01. 통합 설계 및 개발 계획서.md",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
     "40. TeamNova/ASSA_V2 프로젝트/공통 문서",
     "40. TeamNova/ASSA_V2 프로젝트",
@@ -323,7 +276,6 @@
     "60. 소설",
     "80. Canvas/Untitled 1.canvas",
     "50. 개념의 본질",
-    "40. TeamNova/응용1/팀 프로젝트/우주 쓰레기 수거작전",
     "99. Attachment/Pasted image 20241126143416.png",
     "80. Canvas/Untitled.canvas",
     "99. Attachment/Pasted image 20240612180626.png",
