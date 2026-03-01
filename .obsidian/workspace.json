@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "LLM 파트"
             }
+          },
+          {
+            "id": "b61b650e08c5a6e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +249,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0b0451bdef8c0ac6",
+  "active": "b61b650e08c5a6e9",
   "lastOpenFiles": [
     "40. TeamNova/Untitled 1.md",
     "40. TeamNova/응용2/LLM 파트.md",
