@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/메모.md",
+                "file": "메모/자주쓰는 우분투 명령어.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "메모"
+              "title": "자주쓰는 우분투 명령어"
             }
           }
         ]
@@ -238,6 +238,8 @@
   },
   "active": "6af55929637bb3df",
   "lastOpenFiles": [
+    "메모",
+    "00. Inbox/메모.md",
     "00. Inbox/킹폴 답변.md",
     "00. Inbox/Untitled 2.md",
     "00. Inbox/Untitled 1.md",
@@ -247,8 +249,7 @@
     "00. Inbox/Untitled.base",
     "40. TeamNova/응용1/팀 프로젝트/타겟분석/서비스타겟 60대 이상 노인.md",
     "80. Canvas/무제.canvas",
-    "00. Inbox/자주쓰는 우분투 명령어.md",
-    "00. Inbox/메모.md",
+    "메모/자주쓰는 우분투 명령어.md",
     "00. Inbox/개발순서.md",
     "00. Inbox/방치의 정의.md",
     "00. Inbox/음성 어조 분석 및 아나운서 선정 계획.md",
@@ -266,7 +267,6 @@
     "40. TeamNova/마이 앵커/melotts-android-guide.md",
     "40. TeamNova/마이 앵커/walkthrough.md",
     "40. TeamNova/마이 앵커/탑다운 앱 구조.md",
-    "99. Attachment/walkthrough.md",
     "99. Attachment/Pasted image 20251224161427.png",
     "40. TeamNova/마이 앵커",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
