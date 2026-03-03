@@ -55,8 +55,7 @@
               "title": "개발 계획"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,10 +260,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "768d6261345363a8",
+  "active": "6af55929637bb3df",
   "lastOpenFiles": [
-    "메모/자주쓰는 우분투 명령어.md",
     "00. Inbox/개발 계획.md",
+    "무제",
+    "메모/자주쓰는 우분투 명령어.md",
     "00. Inbox/개발순서.md",
     "00. Inbox/Untitled 4.md",
     "00. Inbox/Untitled 2.md",
@@ -292,7 +292,6 @@
     "40. TeamNova/응용2",
     "40. TeamNova/마이 앵커/melotts-android-guide.md",
     "40. TeamNova/마이 앵커/walkthrough.md",
-    "40. TeamNova/마이 앵커/탑다운 앱 구조.md",
     "99. Attachment/Pasted image 20251224161427.png",
     "40. TeamNova/마이 앵커",
     "40. TeamNova/ASSA_V2 프로젝트/기존 프로젝트 요건정의 추출",
@@ -300,7 +299,6 @@
     "40. TeamNova/ASSA_V2 프로젝트",
     "30. study/Untitled",
     "Untitled",
-    "60. 소설",
     "80. Canvas/Untitled 1.canvas",
     "99. Attachment/Pasted image 20241126143416.png",
     "80. Canvas/Untitled.canvas",
